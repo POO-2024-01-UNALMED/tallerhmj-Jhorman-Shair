@@ -12,8 +12,8 @@ import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 
-import futbol.Futbolista;
-import futbol.Jugador;
+import main.java.futbol.Futbolista;
+import main.java.futbol.Jugador;
 
 @TestMethodOrder(MethodOrderer.Alphanumeric.class)
 public class TestJugador {

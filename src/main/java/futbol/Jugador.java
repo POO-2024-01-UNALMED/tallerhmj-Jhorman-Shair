@@ -1,4 +1,4 @@
-package futbol;
+package main.java.futbol;
 
 import java.lang.Math;
 

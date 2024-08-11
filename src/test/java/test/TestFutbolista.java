@@ -7,8 +7,8 @@ import org.junit.jupiter.api.MethodOrderer;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestMethodOrder;
 
-import futbol.Futbolista;
-import futbol.Jugador;
+import main.java.futbol.Futbolista;
+import main.java.futbol.Jugador;
 
 
 @TestMethodOrder(MethodOrderer.Alphanumeric.class)
